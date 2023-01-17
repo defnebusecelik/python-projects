@@ -1,6 +1,6 @@
 👉 Bitcoin Historical Data Project 👈
 
-kaggle--> https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+for dataset --> https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 📁 About Dataset
 
